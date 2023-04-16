@@ -1,4 +1,6 @@
 # Archivos ignorados
+
 __pycache__/
 *.txt
 *.pdf
+# Fin
